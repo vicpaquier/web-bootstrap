@@ -1,0 +1,33 @@
+body {
+  text-align: justify;
+  word-wrap: break-word;
+}
+.contenedor-principal {
+  width: 70%;
+}
+
+.navbar-principal {
+  border-color: black;
+  border-width: 1px;
+  border-style: dotted none;
+}
+
+.barra-historial {
+  color: black;
+  padding-left: 1em;
+  list-style-type: none;
+}
+
+.item-historial {
+  color: black;
+}
+
+article {
+  border-bottom-color: black;
+  border-bottom-width: 1px;
+  border-bottom-style: dotted;
+}
+
+h3 {
+  text-align: center;
+}
